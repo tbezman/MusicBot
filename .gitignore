@@ -1,3 +1,4 @@
+.idea/
 /nbproject/
 /target/
 /Playlists/
@@ -5,3 +6,5 @@
 *.json
 *.txt
 nb*.xml
+META-INF/
+out/
